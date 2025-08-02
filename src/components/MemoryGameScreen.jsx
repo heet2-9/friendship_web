@@ -119,10 +119,8 @@ export default function MemoryGameScreen({ onGameComplete, gameCompleted }) {
               </h2>
 
               <div className="text-gray-300 mb-8 space-y-3 text-left">
-                <p>🤝 Find all friendship pairs</p>
-                <p>💕 Test your memory skill</p>
-                <p>✨ Complete to unlock memories</p>
-                <p>🏆 Try to finish in fewer moves!</p>
+                <p>Bhagwan ee dimag aapyu che ne toh vaparje ahiya😅</p>
+                
               </div>
 
               <motion.button
