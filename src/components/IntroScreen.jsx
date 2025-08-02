@@ -59,7 +59,7 @@ export default function IntroScreen({ onNext }) {
                             </span>
                             <br />
                             <span className="bg-gradient-to-r from-purple-500 to-cyan-400 bg-clip-text text-transparent">
-                                Just For You!
+                                Just For You!  FROM HEET
                             </span>
                         </motion.h1>
 
